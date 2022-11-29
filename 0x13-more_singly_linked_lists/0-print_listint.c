@@ -4,7 +4,7 @@
  * print_listint - Function that prints all elements
  * @h: list
  *
- * Return: number of nodes
+ * Return: number of nodos
  */
 size_t print_listint(const listint_t *h)
 {
